@@ -1,4 +1,5 @@
 git init
+git config credential.helper store
 git config user.name flysoar
 git config user.password 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
 git add *
