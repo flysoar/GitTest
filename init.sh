@@ -2,5 +2,5 @@ git init
 git add *
 git commit -m "t"
 git branch -M main
-git remote add origin $1
-git push -u origin main
+proxychains git remote add origin $1
+proxychains git push -u origin main
